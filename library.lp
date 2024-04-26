@@ -6,7 +6,7 @@
  (version "0.1")
  (created 2024-04-25T11:21:04Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/kagehisa/Esp32-Stick.lplib")
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
  (manufacturer "Prokyber")
 )
