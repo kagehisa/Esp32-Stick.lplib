@@ -1,0 +1,12 @@
+(librepcb_library 39be714b-8bdc-449a-adec-8fd2cfe9fc49
+ (name "Esp32-Stick")
+ (description "Esp32-Stick ethernet boards library (unofficial)")
+ (keywords "esp32, ethernet")
+ (author "Sven Woelfel")
+ (version "0.1")
+ (created 2024-04-25T11:21:04Z)
+ (deprecated false)
+ (url "")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+ (manufacturer "Prokyber")
+)

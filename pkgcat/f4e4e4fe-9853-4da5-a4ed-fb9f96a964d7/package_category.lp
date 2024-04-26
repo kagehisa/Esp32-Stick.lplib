@@ -1,0 +1,10 @@
+(librepcb_package_category f4e4e4fe-9853-4da5-a4ed-fb9f96a964d7
+ (name "ESP32-Stick")
+ (description "ESP32-Stick boards")
+ (keywords "esp32, ethernet")
+ (author "Sven Woelfel")
+ (version "0.1")
+ (created 2024-04-25T11:26:07Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
