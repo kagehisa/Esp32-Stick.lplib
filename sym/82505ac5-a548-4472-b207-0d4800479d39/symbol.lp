@@ -1,6 +1,6 @@
 (librepcb_symbol 82505ac5-a548-4472-b207-0d4800479d39
  (name "ESP32-Stick")
- (description "ESP32-Stick, Ethernet ESP32 module with or without PoE capabilities")
+ (description "ESP32-Stick ethernet boards with or without PoE capabilities.")
  (keywords "esp32, ethernet")
  (author "Sven Woelfel")
  (version "0.1")

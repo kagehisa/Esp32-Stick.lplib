@@ -1,6 +1,6 @@
 (librepcb_package_category f4e4e4fe-9853-4da5-a4ed-fb9f96a964d7
  (name "ESP32-Stick")
- (description "ESP32-Stick boards")
+ (description "ESP32-Stick ethernet boards with or without PoE capabilities.")
  (keywords "esp32, ethernet")
  (author "Sven Woelfel")
  (version "0.1")
