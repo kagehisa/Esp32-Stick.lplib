@@ -1,6 +1,6 @@
 (librepcb_library 39be714b-8bdc-449a-adec-8fd2cfe9fc49
- (name "Esp32-Stick")
- (description "Esp32-Stick ethernet boards library (unofficial)")
+ (name "Prokyber")
+ (description "Library for Esp32-Stick ethernet boards from Prokyber (unofficial)")
  (keywords "esp32, ethernet")
  (author "Sven Woelfel")
  (version "0.1")
